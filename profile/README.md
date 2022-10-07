@@ -1,5 +1,64 @@
-## Hi there 👋
+## 👋 What is Eng-Eluencer?
+<img src="https://user-images.githubusercontent.com/107671084/194558041-1d03de03-9054-49c5-a5f8-ec475ee8cf9f.png" />
 
+<div>
+잉플루언서는 영어공부를 위한 화상채팅 사이트입니다!
+  <br>
+잉플루언서와 함께 재밌는 영어 스터디를 시작해보세요!
+</div>
+
+## Member
+### Back
+
+<div>
+정민우
+임소윤
+정동섭
+</div>
+
+### Front
+<div>
+임다은
+이예솔
+김보미
+  </div>
+
+## 🛠 Service Architecture 🛠
+### Front
+<div style ={{display:"flex"}}>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> </div>
+
+### Communication
+<div style ={{display:"flex"}}>
+<img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sokcjs-black?style=flat-square&logo=Sokcjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stomp-black?style=flat-square&logo=Stomp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest:APi-007ACC?style=flat-square&logo=Rest:APi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTP-2C5BB4?style=flat-square&logo=HTTP&logoColor=white"/>
+</div>
+
+
+### Back
+<div style ={{display:"flex"}}>
+
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-FF7800?style=flat-square&logo=java&logoColor=whtie"/>
+<img src="https://img.shields.io/badge/Gson-grey?style=flat-square&logo=Gson&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenVidu-grey?style=flat-square&logo=OpenVidu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=flat-square&logo=Let's Encrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/H2-3b5bdb?style=flat-square&logo=H2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</div>
 <!--
 
 **Here are some ideas to get you started:**
