@@ -1,29 +1,49 @@
 ## 👋 What is Eng-Eluencer?
-<img src="https://user-images.githubusercontent.com/107671084/194558041-1d03de03-9054-49c5-a5f8-ec475ee8cf9f.png" />
+<img src = "https://user-images.githubusercontent.com/107671084/194568107-c29ad3de-9b4f-4648-abd3-bfc5bc81d37b.png" />
+
 
 <div>
-잉플루언서는 영어공부를 위한 화상채팅 사이트입니다!
+ Eng-Eluencer는 영어공부를 위한 화상채팅 사이트입니다!
   <br>
-잉플루언서와 함께 재밌는 영어 스터디를 시작해보세요!
+ Eng-Eluencer와 함께 재밌는 영어 스터디를 시작해보세요!
 </div>
 
-## Member
-### Back
+## 메인기능
 
-<div>
-정민우
-임소윤
-정동섭
-</div>
+#### 화상통화
 
-### Front
-<div>
-임다은
-이예솔
-김보미
-  </div>
+#### 채팅
+
+#### 스크립트
+
+#### 메모장
+
+## 부가기능
+
+#### 악성유저 제어
+#### 참가자 목록 제공
+#### 방장권한
+
+
+## 👍Member
+### Back  
+
+
+<p>정민우 👑 </p>
+<p>임소윤</p>
+<p>정동섭</p>
+
+
+### Front 
+
+<p>임다은 👑 </p>
+<p>이예솔</p>
+<p>김보미</p>
+
 
 ## 🛠 Service Architecture 🛠
+<img src = "https://user-images.githubusercontent.com/107671084/194572224-f96a5e52-81ad-47c1-8f68-0c3f057f9044.png"/>
+
 ### Front
 <div style ={{display:"flex"}}>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
