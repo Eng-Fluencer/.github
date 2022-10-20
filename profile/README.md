@@ -7,7 +7,7 @@
   <br>
  Eng-Eluencer와 함께 재밌는 영어 스터디를 시작해보세요!
 </div>
-https://engfluencer.co.kr
+#### https://engfluencer.co.kr
 
 
 ## 메인기능
@@ -54,7 +54,8 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 
 
 ## 🛠 Service Architecture 🛠
-<img src = "https://user-images.githubusercontent.com/107671084/194572224-f96a5e52-81ad-47c1-8f68-0c3f057f9044.png"/>
+![아키텍쳐](https://user-images.githubusercontent.com/110237141/196914970-4a50daa2-fb67-4678-9932-ce6a8bbc0d2e.png)
+
 
 ### Front
 <div style ={{display:"flex"}}>
