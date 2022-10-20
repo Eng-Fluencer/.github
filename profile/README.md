@@ -3,9 +3,9 @@
 
 
 <div>
- Eng-Eluencer는 영어공부를 위한 화상채팅 사이트입니다!
+ Eng-Fluencer는 영어공부를 위한 화상채팅 사이트입니다!
   <br>
- Eng-Eluencer와 함께 재밌는 영어 스터디를 시작해보세요!
+ Eng-Fluencer와 함께 재밌는 영어 스터디를 시작해보세요!
 </div>
 
 #### https://engfluencer.co.kr
