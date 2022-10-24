@@ -1,5 +1,6 @@
 ## 👋 What is Eng-Fluencer?
-<img src = "https://user-images.githubusercontent.com/107671084/194568107-c29ad3de-9b4f-4648-abd3-bfc5bc81d37b.png" />
+![KakaoTalk_20221024_143936653](https://user-images.githubusercontent.com/110237141/197495226-a7cc49fa-10f3-4154-a6e9-c8b519dc59da.png)
+
 
 
 <div>
@@ -13,28 +14,28 @@
 
 ## 메인기능
 
-#### 화상통화
+#### 🎥화상통화
 openVidu 라이브러리를 사용하여 실시간 화상 통화가 가능하도록 구현하여 캠스터디를 구성했습니다.
-#### 채팅
+#### ✉채팅
 sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습니다.
-#### 스크립트
+#### 📑스크립트
 서버에서 스크립트를 받아와서 리덕스로 저장하여 화면에서 확인이 가능하도록 제작했습니다. 원하는 태그를 클릭하면 해당 스크립트가 출력됩니다.
-#### 메모장
+#### 📜메모장
 캠스터디를 진행하며 공부한 내용을 작성할 수 있도록 메모장 기능을 구현했습니다. 작성한 메모장은 마이페이지에서 확인이 가능합니다.
 
 
 
 ## 부가기능
 
-#### 타이머
+#### ⏰타이머
 본인의 공부시간을 기록할 수 있도록 타이머 기능을 구현했습니다. 공부시간은 마이페이지에서 확인가능합니다.
-#### 번역
+#### 🐦번역
 스크립트 채팅방에서 한/영 번역 기능을 이용할 수 있습니다.
-#### 악성유저 제어
+#### 🥊악성유저 제어
 웹소켓을 통해 실시간으로 van타입 유저를 받아서 강제퇴장 및 재입장 불가능하도록 구현했습니다.
-#### 참가자 목록 제공
+#### 👨‍👩‍👦‍👦참가자 목록 제공
 웹소켓을 통해 입퇴장시 참가자 목록을 받아서 실시간으로 참가한 유저의 목록과 참가자 수를 확인할 수 있습니다
-#### 방장권한
+#### 👑방장권한
 악성유저 강제 퇴장 및 방장 권한 위임의 기능을 추가하여 스터디 참가 유저 관리를 용이하게 했습니다.
 
 
@@ -70,6 +71,8 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 ![캠스터디방](https://user-images.githubusercontent.com/102493302/197492916-2ca7b6a0-a69f-42bd-9510-1e7bf3d851aa.gif)
 
 
+## 🛠 Service Architecture 🛠
+![아키텍쳐](https://user-images.githubusercontent.com/110237141/197495182-d14ae951-ebd2-4fe3-8305-4ff2fc8bd37f.png)
 
 
 ## 👍Member
@@ -88,8 +91,7 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 <p>김보미</p>
 
 
-## 🛠 Service Architecture 🛠
-![아키텍쳐](https://user-images.githubusercontent.com/110237141/196914970-4a50daa2-fb67-4678-9932-ce6a8bbc0d2e.png)
+
 
 
 ### Front
@@ -127,11 +129,6 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 <img src="https://img.shields.io/badge/H2-3b5bdb?style=flat-square&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
-
-
-### 🤳 Instagram 
-##### @engfluencer_official
-##### https://www.instagram.com/engfluencer_official/
 <!--
 
 **Here are some ideas to get you started:**
