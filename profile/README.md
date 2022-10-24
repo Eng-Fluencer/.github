@@ -1,6 +1,5 @@
 ## 👋 What is Eng-Fluencer?
-![KakaoTalk_20221024_143936653](https://user-images.githubusercontent.com/110237141/197495226-a7cc49fa-10f3-4154-a6e9-c8b519dc59da.png)
-
+<img src = "https://user-images.githubusercontent.com/107671084/194568107-c29ad3de-9b4f-4648-abd3-bfc5bc81d37b.png" />
 
 
 <div>
@@ -71,8 +70,6 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 ![캠스터디방](https://user-images.githubusercontent.com/102493302/197492916-2ca7b6a0-a69f-42bd-9510-1e7bf3d851aa.gif)
 
 
-## 🛠 Service Architecture 🛠
-![아키텍쳐](https://user-images.githubusercontent.com/110237141/197495182-d14ae951-ebd2-4fe3-8305-4ff2fc8bd37f.png)
 
 
 ## 👍Member
@@ -91,7 +88,8 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 <p>김보미</p>
 
 
-
+## 🛠 Service Architecture 🛠
+![아키텍쳐](https://user-images.githubusercontent.com/110237141/196914970-4a50daa2-fb67-4678-9932-ce6a8bbc0d2e.png)
 
 
 ### Front
@@ -129,6 +127,11 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 <img src="https://img.shields.io/badge/H2-3b5bdb?style=flat-square&logo=H2&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
+
+
+### 🤳 Instagram 
+##### @engfluencer_official
+##### https://www.instagram.com/engfluencer_official/
 <!--
 
 **Here are some ideas to get you started:**
