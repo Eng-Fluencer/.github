@@ -37,11 +37,10 @@ sockjs와 stomp를 사용하여 실시간 채팅이 가능하도록 구현했습
 #### 방장권한
 악성유저 강제 퇴장 및 방장 권한 위임의 기능을 추가하여 스터디 참가 유저 관리를 용이하게 했습니다.
 
-##페이지 안내
+## 안내
 
-####메인-로그인
-<img src = "https://user-images.githubusercontent.com/102493302/197490467-b9a0de6b-4bb3-49dd-8954-8146f7321771.gif" />
-
+#### 메인-로그인
+![메인-로그인](https://user-images.githubusercontent.com/102493302/197492051-83e78570-a9bf-4953-ac20-f28a118120c6.gif)
 
 ## 👍Member
 ### Back  
